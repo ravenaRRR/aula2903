@@ -1,0 +1,6 @@
+.bg-raphaela {
+    background: url('../img/logobatman.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
